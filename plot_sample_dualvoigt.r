@@ -1,7 +1,12 @@
-source("plot_dualvoigt.r")
+# function for calculating density of (zero centered dual Voigt)
+ddualvoigt<-function(x,gamma,sigma){
+	erfc = 2*(1-pnorm(gamma/sigma))
+	dens <- sigma/(sqrt(2*pi))*exp(-(gamma^2/(2*sigma^2)))*(1/erfc)*
+	exp(-(gamma*abs(x)+x^2*sigma^2/2 ))
+	return(dens)
+}
 
-
-# sampling function for zero centered dual Voigt
+# function for random sample from (zero centered) dual Voigt
 rdualvoigt <- function(n,gamma,sigma){
 	rdualsample=vector()
 ngood=length(rdualsample)
