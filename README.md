@@ -8,3 +8,7 @@ The code in `plot_sample_dualvoigt` contains functions for sampling and plotting
 
 Finally, the file `dualvoigt_smooth`shows an animation of the Dual Voigt density for $\gamma=\sigma$ in $[0.25, 2]$
 
+📚 If you use this code, please cite:  
+* M.Cannas, "On the Voigt profile and its dual"* Communications in Statistics – Theory and Methods (forthcoming, 2025).
+
+
