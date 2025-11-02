@@ -1,6 +1,6 @@
 # Dual-Voigt-estimation
-R code for parameter estimation of the Dual Voigt distribution. 📄 [Read the paper on arXiv](https://arxiv.org/abs/2508.13252)
 
+This repository contains R code for the Dual Voigt distribution. 📄 [Read the paper on arXiv](https://arxiv.org/abs/2508.13252)
 
 The code in `dualvoigt estimation mom and mle` implements Method of Moments and likelihood-based estimation.
 
