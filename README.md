@@ -1,6 +1,6 @@
 # Dual-Voigt-estimation
 
-This repository contains R code for the paper "On the Voigt profile and its dual". 📄 [see the pre-print in arXiv](https://arxiv.org/abs/2508.13252)
+This repository contains R code for the paper "On the Voigt profile and its dual". 📄 [arXiv pre-print](https://arxiv.org/abs/2508.13252)
 
 The code in `dualvoigt estimation mom and mle` implements Method of Moments and likelihood-based estimation.
 
