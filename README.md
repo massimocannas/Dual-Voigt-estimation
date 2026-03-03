@@ -10,7 +10,9 @@ Finally, the file `dualvoigt_smooth`shows an animation of the Dual Voigt density
 
 📚 If you use this code, please cite:  
 * M.Cannas, "On the Voigt profile and its dual"* Communications in Statistics – Theory and Methods (2025)
+* 
 [arXiv pre-print](https://arxiv.org/abs/2508.13252)
+
 [link](https://www.tandfonline.com/doi/full/10.1080/03610926.2025.2580520).
 
 
